@@ -1,9 +1,9 @@
 import React from "react";
 
-const ArticleList = () => (
+const ArticlePage = () => (
   <>
     <h1>Articles </h1>
   </>
 );
 
-export default ArticleList;
+export default ArticlePage;
